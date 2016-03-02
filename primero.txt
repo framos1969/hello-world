@@ -1,0 +1,6 @@
+hola y adios
+es la primera linea que si
+es la segunda linea que si
+es la tercera linea que si
+es la cuarta linea que si
+FIN
