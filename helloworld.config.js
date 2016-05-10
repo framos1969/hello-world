@@ -1,7 +1,7 @@
 /**
  * Created by framos on 22/03/2016.
  */
-
+var a = 0;
 var HW = HW || {};
 
 HW.config = function($, configParams, pageUrl, isDebug) {
