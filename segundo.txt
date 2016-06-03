@@ -1,7 +1,5 @@
-es la primera linea
-es la segunda linea
-es la tercera linea
-es la cuarta linea
+segundo.txt
+este es la primera linea
 nueva modificacion
 nueva modificacion
 nueva modificacion
@@ -19,12 +17,4 @@ nueva modificacion
 nueva modificacion
 nueva modificacion
 nueva modificacion
-nueva modificacion
-nueva modificacion
-nueva modificacion
-nueva modificacion
-nueva modificacion
-nueva modificacion
-nueva modificacion
-nueva modificacion
-nueva modificacion
+FIN 2
